@@ -1,0 +1,1 @@
+uic /home/book/ROS_study/catkin_ws/src/qt_test/ui/main_window.ui > /home/book/ROS_study/catkin_ws/src/qt_test/include/qt_test/ui_main_window.h
